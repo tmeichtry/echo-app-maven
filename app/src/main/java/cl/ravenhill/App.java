@@ -17,7 +17,7 @@ public class App {
      * @param args An array of command-line arguments to echo.
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!!");
         for (String arg : args) {
             System.out.println(EchoUtils.echoMessage(arg));
         }
