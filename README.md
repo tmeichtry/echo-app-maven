@@ -1,5 +1,5 @@
 # echo-app-maven
-Test111
+Test1111
 This repository contains the source code for a modular Java project built with [Apache Maven](https://maven.apache.org/). It is designed to accompany **two lessons** from the [DIBS course](https://dibs.pages.dev), which walk you through the process of creating and scaling a Maven-based Java project.
 
 > ✍️ While both lessons are written in Spanish, the code in this repository is fully in **English** to ensure accessibility for a broader audience.
@@ -78,5 +78,5 @@ This repository demonstrates:
 - Running Java programs via `exec-maven-plugin`.
 
 ## ⚖️ License
-Test222
+Test2222
 This project is licensed under the [BSD-2-Clause License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
